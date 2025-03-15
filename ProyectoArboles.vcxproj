@@ -127,11 +127,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Nodo.cpp" />
+    <ClCompile Include="Estudiante.cpp" />
+    <ClCompile Include="ListaDobleMaterias.cpp" />
+    <ClCompile Include="ListaSimpleNotas.cpp" />
+    <ClCompile Include="Materia.cpp" />
+    <ClCompile Include="NodoArbol.cpp" />
+    <ClCompile Include="NodoMateria.cpp" />
+    <ClCompile Include="NodoNotas.cpp" />
+    <ClCompile Include="Notas.cpp" />
     <ClCompile Include="ProyectoArboles.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Nodo.h" />
+    <ClInclude Include="Estudiante.h" />
+    <ClInclude Include="ListaDobleMaterias.h" />
+    <ClInclude Include="ListaSimpleNotas.h" />
+    <ClInclude Include="Materia.h" />
+    <ClInclude Include="NodoArbol.h" />
+    <ClInclude Include="NodoMateria.h" />
+    <ClInclude Include="NodoNotas.h" />
+    <ClInclude Include="Notas.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
