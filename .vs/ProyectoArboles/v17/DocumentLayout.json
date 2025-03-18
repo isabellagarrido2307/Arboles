@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaDobleMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaDobleMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoMateria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoMateria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,20 +11,44 @@
       "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoNotas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaSimpleNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaSimpleNotas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Notas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ProyectoArboles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ProyectoArboles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Notas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaSimpleNotas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaSimpleNotas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaDobleMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:ListaDobleMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Notas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoMateria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:NodoMateria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D88423C-BF27-4E0D-A763-CE8CF2395368}|ProyectoArboles.vcxproj|solutionrelative:Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ProyectoArboles.cpp",
+              "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ProyectoArboles.cpp",
+              "RelativeDocumentMoniker": "ProyectoArboles.cpp",
+              "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ProyectoArboles.cpp",
+              "RelativeToolTip": "ProyectoArboles.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T12:18:30.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ListaDobleMaterias.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaDobleMaterias.h",
               "RelativeDocumentMoniker": "ListaDobleMaterias.h",
@@ -74,25 +90,23 @@
               "RelativeToolTip": "ListaDobleMaterias.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T23:34:51.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:34:51.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "NodoMateria.cpp",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.cpp",
               "RelativeDocumentMoniker": "NodoMateria.cpp",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.cpp",
               "RelativeToolTip": "NodoMateria.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T23:31:19.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:31:19.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "NodoMateria.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoMateria.h",
               "RelativeDocumentMoniker": "NodoMateria.h",
@@ -100,12 +114,11 @@
               "RelativeToolTip": "NodoMateria.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T23:28:28.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:28:28.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Materia.cpp",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.cpp",
               "RelativeDocumentMoniker": "Materia.cpp",
@@ -113,12 +126,11 @@
               "RelativeToolTip": "Materia.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T23:20:23.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:20:23.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Materia.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Materia.h",
               "RelativeDocumentMoniker": "Materia.h",
@@ -126,86 +138,80 @@
               "RelativeToolTip": "Materia.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T23:09:48.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:09:48.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ListaSimpleNotas.cpp",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.cpp",
               "RelativeDocumentMoniker": "ListaSimpleNotas.cpp",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.cpp",
               "RelativeToolTip": "ListaSimpleNotas.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T23:06:57.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:06:57.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "ListaSimpleNotas.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.h",
               "RelativeDocumentMoniker": "ListaSimpleNotas.h",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\ListaSimpleNotas.h",
               "RelativeToolTip": "ListaSimpleNotas.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T23:00:55.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:00:55.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "NodoNotas.cpp",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoNotas.cpp",
               "RelativeDocumentMoniker": "NodoNotas.cpp",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoNotas.cpp",
               "RelativeToolTip": "NodoNotas.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T22:57:24.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "NodoNotas.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoNotas.h",
               "RelativeDocumentMoniker": "NodoNotas.h",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\NodoNotas.h",
               "RelativeToolTip": "NodoNotas.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T22:55:14.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:55:14.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Notas.cpp",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.cpp",
               "RelativeDocumentMoniker": "Notas.cpp",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.cpp",
               "RelativeToolTip": "Notas.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T22:46:29.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:46:29.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Notas.h",
               "DocumentMoniker": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.h",
               "RelativeDocumentMoniker": "Notas.h",
               "ToolTip": "C:\\Users\\GUEST\\Desktop\\ProyectoArboles\\Notas.h",
               "RelativeToolTip": "Notas.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-15T22:32:28.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T22:32:28.627Z"
             }
           ]
         }

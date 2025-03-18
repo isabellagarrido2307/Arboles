@@ -13,6 +13,7 @@ class ListaSimpleNotas
 		// Otros metodos
 		bool estaVacia();
 		void ingresarNota(Notas* nota);
-		void calcularNotaPonderada()
+		void calcularNotaPonderada();
+		void mostrarNotas();
 };
 

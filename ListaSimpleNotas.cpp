@@ -30,3 +30,15 @@ void ListaSimpleNotas::ingresarNota(Notas* nota)
 	}
 	tamano++;
 }
+void ListaSimpleNotas::mostrarNotas()
+{
+	if (!estaVacia())
+	{
+		NodoNotas* aux = inicio;
+		while (aux != nullptr)
+		{
+			aux->getNota()->mostrarNota();
+			aux = aux->getSiguiente();
+		}
+	}
+}

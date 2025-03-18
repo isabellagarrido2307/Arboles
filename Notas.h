@@ -23,5 +23,7 @@ class Notas
 		void setFechaEvaluacion(string fechaEvaluacion);
 		void setNotaObtenida(double notaObtenida);
 		void setPonderacionEval(double ponderacionEval);
+
+		void mostrarNota();
 };
 

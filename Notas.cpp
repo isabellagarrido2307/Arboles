@@ -39,3 +39,12 @@ void Notas::setPonderacionEval(double ponderacionEval)
 {
 	this->ponderacionEval = ponderacionEval;
 }
+void Notas::mostrarNota()
+{
+	cout << "----------------------------------------" << endl;
+	cout << "Fecha: " << fechaEvaluacion << endl;
+	cout << "Nota: " << notaObtenida << endl;
+	cout << "Ponderacion: " << ponderacionEval << endl;
+	cout << "Puntos obtenidos: " << ponderacionEval*notaObtenida << endl;
+	cout << "----------------------------------------" << endl;
+}
