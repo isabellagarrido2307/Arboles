@@ -1,18 +1,13 @@
 #include "NodoArbol.h"
 
 //Constructor
-NodoArbol::NodoArbol(int dato)
+NodoArbol::NodoArbol(Estudiante* estudiante)
 {
-	this->dato = dato;
 	this->der = nullptr;
 	this->izq = nullptr;
 }
 
 //Setters
-void NodoArbol::setDato(int dato)
-{
-	this->dato = dato;
-}
 void NodoArbol::setDer(NodoArbol* der)
 {
 	this->der = der;
@@ -23,10 +18,6 @@ void NodoArbol::setIzq(NodoArbol* izq)
 }
 
 //Getters
-int NodoArbol::getDato()
-{
-	return dato;
-}
 NodoArbol* NodoArbol::getIzq()
 {
 	return izq;

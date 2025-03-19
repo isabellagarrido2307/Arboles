@@ -1,22 +1,20 @@
 #pragma once
+#include "Estudiante.h"
 class NodoArbol
 {
 	private:
-		int dato;
+		Estudiante* estudiante;
 		NodoArbol* izq;
 		NodoArbol* der;
-
 	public:
 		//Constructor
-		NodoArbol(int dato);
+		NodoArbol(Estudiante* estudiante);
 
 		//Setters
-		void setDato(int dato);
 		void setIzq(NodoArbol* izq);
 		void setDer(NodoArbol* der);
 
 		//Getters
-		int getDato();
 		NodoArbol* getIzq();
 		NodoArbol* getDer();
 

@@ -10,14 +10,12 @@ class ListaDobleMaterias
 
 	public:
 
-		//ListaDobleMaterias();
+		ListaDobleMaterias();
 
-		//bool estaVacia();
-		//void agregarMateria(Materia* materia);
-		//void eliminarMateria(string codigoMateria);
-		//void mostrarMaterias();
-		//void mostrarMaterias();
-		//void mostrarNotas();
-
-};
+		bool estaVacia();
+		void agregarMateria(Materia* materia);
+		bool eliminarMateria(string codigoMateria);
+		void buscarMateria(string codigo);
+		void mostrarMaterias();
+}; 
 

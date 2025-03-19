@@ -2,27 +2,31 @@
 using namespace std;
 #include <iostream>
 #include <string>
+#include "ListaDobleMaterias.h"
 
 class Estudiante
 {
 	private:
 		string nombre;
-		int ID;
+		string ID;
 		string carrera;
+		ListaDobleMaterias* listaMaterias;
 
 	public:
 		// Constructor
-		Estudiante(string nombre, int ID, string carrera);
+		Estudiante(string nombre, string ID, string carrera, ListaDobleMaterias* listaMaterias);
 
 		// Getters
 		string getNombre();
-		int getID();
+		string getID();
 		string getCarrera();
+		ListaDobleMaterias* getListaMaterias();
 
 		// Setters
 		void setNombre(string nombre);
-		void setID(int ID);
+		void setID(string ID);
 		void setCarrera(string carrera);
+		void setListaMaterias(ListaDobleMaterias* listaMaterias);
 		void mostrarEstudiante();
 };
 
